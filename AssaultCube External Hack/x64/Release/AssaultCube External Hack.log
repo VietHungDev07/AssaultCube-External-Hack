@@ -1,0 +1,30 @@
+﻿  AssaultCube External Hack.cpp
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(48,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(48,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(49,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(49,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(50,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(53,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(54,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(55,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(56,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(61,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(61,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\AssaultCube External Hack.cpp(61,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDK.cpp
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(14,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(20,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(26,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(32,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(44,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(52,43): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(59,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(64,42): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\VietHungDev\source\repos\AssaultCube External Hack\AssaultCube External Hack\SDK.cpp(70,42): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+  Tool.cpp
+  Generating code
+  89 of 155 functions (57.4%) were compiled, the rest were copied from previous compilation.
+    51 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AssaultCube External Hack.vcxproj -> C:\Users\VietHungDev\source\repos\AssaultCube External Hack\x64\Release\AssaultCube External Hack.exe
